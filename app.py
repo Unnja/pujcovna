@@ -57,4 +57,5 @@ if st.button("💰 Spočítat cenu"):
         st.success(f"**Cena po slevě:** {po_sleve:.2f} Kč")
 
 st.markdown("---")
-st.caption("© 2025 Půjčovna FAST VUT — vytvořil student 🎓")
+st.caption("© 2025 Půjčovna FAST VUT — vytvořil student Filip Vaja🎓")
+
